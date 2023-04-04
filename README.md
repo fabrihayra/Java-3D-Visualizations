@@ -16,5 +16,8 @@ To run these projects, you will need to have Java and Processing installed on yo
 ## Usage:
 To run any of these projects, open the project folder in Processing and run the main Java file. Use the on-screen controls to adjust the parameters and view the program's output.
 
+## Screenshots: 
+To be added 
+
 ## Contributing:
 These projects were developed as part of a personal learning experience and are not currently accepting contributions. However, if you have suggestions or ideas for future projects, feel free to reach out.
